@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="message">Ola lucas</string>
+    <string name="click">Click</string>
+    <string name="message_classificacao">Classificação:%1$s!</string>
+
+</resources>
